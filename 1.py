@@ -1,1 +1,6 @@
-# Write your solution for algorithm 1 below
+# Algorithm 1
+
+lst = [6, 3, 1, 2]
+lst.sort()
+ 
+print(lst)
